@@ -8,3 +8,5 @@ def square(a,b):
     pass
 def divide(a,b):
     pass
+def percent(a,b):
+    pass
