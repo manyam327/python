@@ -4,5 +4,5 @@ def substarct(a,b)
     pass
 def multiply(a,b)
     pass
-def divide(a,b)
+def square(a,b)
     pass
