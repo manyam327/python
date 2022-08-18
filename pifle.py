@@ -1,8 +1,10 @@
 def add(a,b):
   pass
-def substarct(a,b)
+def substarct(a,b):
     pass
-def multiply(a,b)
+def multiply(a,b):
     pass
-def square(a,b)
+def square(a,b):
+    pass
+def divide(a,b):
     pass
